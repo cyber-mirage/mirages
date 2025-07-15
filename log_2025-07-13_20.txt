@@ -1,0 +1,1 @@
+kuttan8.[Key.space][Key.ctrl_l][Key.ctrl_l][Key.enter]19.[Key.space][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace]gooclass12[Key.space]sql[Key.space]question
