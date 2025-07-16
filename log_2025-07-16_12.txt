@@ -1,0 +1,1 @@
+gate[Key.space]re[Key.backspace][Key.backspace][Key.backspace]representatio[Key.space]class11[Key.enter]
