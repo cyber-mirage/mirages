@@ -1,1 +1,1 @@
-[Key.down][Key.down][Key.down][Key.down][Key.down][Key.down][Key.down][Key.down][Key.down][Key.down][Key.down][Key.up][Key.up][Key.up][Key.up][Key.up][Key.up][Key.down][Key.down][Key.down][Key.space]
+[Key.down][Key.down][Key.down][Key.down][Key.down][Key.down][Key.down][Key.down][Key.down][Key.down][Key.down][Key.up][Key.up][Key.up][Key.up][Key.up][Key.up][Key.down][Key.down][Key.down][Key.space][Key.space]passjijo[Key.space]sir
