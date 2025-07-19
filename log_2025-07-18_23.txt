@@ -1,1 +1,1 @@
-my[Key.enter]net
+my[Key.enter]netscreen[Key.enter]screen[Key.space]saveradd
