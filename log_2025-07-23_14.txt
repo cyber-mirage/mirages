@@ -1,1 +1,1 @@
-[Key.shift]melec.iyacrazyhuh
+1234[Key.enter][Key.up]
