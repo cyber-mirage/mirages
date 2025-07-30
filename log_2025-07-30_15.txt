@@ -1,0 +1,1 @@
+[Key.enter][Key.enter][Key.enter][Key.enter][Key.enter][Key.backspace][Key.backspace]60=average[Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace]
