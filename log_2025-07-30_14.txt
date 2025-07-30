@@ -1,0 +1,1 @@
+[Key.backspace]20[Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace]2000[Key.backspace][Key.shift_r]Pin[Key.space]is[Key.space]2000
