@@ -1,0 +1,1 @@
+7085[Key.end][Key.insert][Key.insert][Key.right][Key.right][Key.right][Key.right][Key.alt_l][Key.f4]
