@@ -1,0 +1,1 @@
+[Key.backspace]jan[Key.backspace][Key.shift_r][Key.shift_r][Key.shift_r][Key.shift_r][Key.shift_r][Key.shift_r][Key.shift_r][Key.shift_r][Key.shift_r][Key.shift_r][Key.shift_r][Key.shift_r][Key.shift_r][Key.shift_r][Key.shift_r][Key.shift_r][Key.shift_r][Key.shift_r][Key.shift_r]FEb[Key.right][Key.left][Key.esc][Key.esc]
