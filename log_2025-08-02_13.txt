@@ -1,0 +1,1 @@
+time=int[Key.shift_r][Key.shift_r][Key.shift_r][Key.shift_r][Key.shift_r](input[Key.shift_r][Key.shift_r])[Key.backspace]("enter[Key.space]thg[Key.backspace]e[Key.space]time[Key.space]in[Key.space]minutes;
