@@ -1,0 +1,1 @@
+[Key.shift]S[Key.cmd][Key.cmd][Key.cmd][Key.ctrl_l][Key.ctrl_l][Key.shift]HISTORY[Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace]history[Key.left][Key.left][Key.left][Key.left][Key.left][Key.left][Key.left][Key.backspace]
