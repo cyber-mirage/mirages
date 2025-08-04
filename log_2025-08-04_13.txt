@@ -1,0 +1,1 @@
+stack[Key.space]chawala[Key.enter][Key.enter][Key.enter][Key.enter][Key.right][Key.right][Key.right][Key.right][Key.right][Key.right][Key.right][Key.right][Key.right][Key.right][Key.right][Key.right][Key.right][Key.right][Key.right][Key.right][Key.right][Key.right][Key.enter]
