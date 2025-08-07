@@ -1,1 +1,1 @@
-shaffeque[Key.enter]scrit[Key.space]402
+1234[Key.enter]write[Key.space]write[Key.space]20[Key.space]topics[Key.space]for[Key.space]pencil[Key.space]drawing[Key.space]for[Key.space]class[Key.space]5[Key.space]students[Key.enter][Key.backspace][Key.backspace]10[Key.space][Key.backspace]5[Key.enter][Key.enter]
