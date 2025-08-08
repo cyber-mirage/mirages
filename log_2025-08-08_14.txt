@@ -1,1 +1,1 @@
-3
+date,intere[Key.space]varchar[Key.shift_r](20[Key.shift_r]);[Key.enter]
