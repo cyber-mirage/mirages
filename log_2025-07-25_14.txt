@@ -1,1 +1,1 @@
-[Key.delete][Key.delete][Key.delete][Key.delete][Key.delete]
+[Key.backspace][Key.backspace]cs[Key.shift_r][Key.down][Key.down][Key.down][Key.down][Key.delete][Key.delete][Key.f5]
