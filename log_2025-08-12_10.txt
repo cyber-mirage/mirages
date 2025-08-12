@@ -1,0 +1,1 @@
+[Key.ctrl_r][Key.space][Key.backspace][Key.backspace][Key.backspace][Key.esc][Key.esc]
