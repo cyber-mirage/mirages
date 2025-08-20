@@ -1,1 +1,1 @@
-[Key.enter]instagram[Key.enter][Key.enter]
+[Key.media_volume_up][Key.media_volume_up][Key.media_volume_up][Key.media_volume_up][Key.media_volume_up][Key.media_volume_up][Key.media_volume_up][Key.media_volume_down][Key.media_volume_down][Key.media_volume_up][Key.media_volume_up][Key.media_volume_down][Key.media_volume_down][Key.media_volume_up][Key.media_volume_down][Key.media_volume_up][Key.media_volume_down][Key.media_volume_up][Key.media_volume_up][Key.media_volume_down][Key.media_volume_down][Key.media_volume_up][Key.media_volume_up]
