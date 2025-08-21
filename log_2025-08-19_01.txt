@@ -1,0 +1,1 @@
+[Key.cmd][Key.shift][Key.caps_lock][Key.ctrl_l][Key.ctrl_l][Key.ctrl_l][Key.space][Key.space][Key.space][Key.space]cbc[Key.cmd]
