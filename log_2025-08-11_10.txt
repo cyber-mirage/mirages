@@ -1,1 +1,1 @@
-[Key.space]
+[Key.enter][Key.enter][Key.enter]xi[Key.space]python[Key.space]swathi[Key.space]chawala[Key.enter]xi[Key.space]python[Key.space]expression[Key.space][Key.space]swathi[Key.space]chawala[Key.enter][Key.enter][Key.esc]f[Key.enter]
