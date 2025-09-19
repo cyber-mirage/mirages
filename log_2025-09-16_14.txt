@@ -1,0 +1,1 @@
+r[Key.shift]_[Key.backspace][Key.backspace][Key.caps_lock]r[Key.shift]-[Key.backspace][Key.shift][Key.shift][Key.shift][Key.shift][Key.shift][Key.shift][Key.shift][Key.shift]_osemary[Key.shift][Key.shift]_10roma23
