@@ -1,0 +1,1 @@
+python[Key.alt_l][Key.cmd][Key.cmd]pyt
