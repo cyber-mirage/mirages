@@ -1,1 +1,1 @@
-kuttan
+[Key.enter][Key.alt_l][Key.alt_l][Key.alt_l][Key.alt_l][Key.alt_l][Key.alt_l][Key.f4][Key.enter]
