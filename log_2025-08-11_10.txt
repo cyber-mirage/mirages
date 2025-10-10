@@ -1,1 +1,1 @@
-[Key.enter]ins[Key.backspace]
+[Key.space]
