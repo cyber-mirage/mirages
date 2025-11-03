@@ -1,0 +1,1 @@
+base[Key.ctrl_l]roll[Key.space]n.o[Key.backspace][Key.backspace]NoneNoneNoneNoneNone000[Key.num_lock][Key.num_lock][Key.num_lock][Key.num_lock][Key.num_lock][Key.num_lock][Key.num_lock]0k[Key.backspace]s.name[Key.caps_lock]dob[Key.caps_lock][Key.backspace]ss7
