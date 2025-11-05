@@ -1,0 +1,1 @@
+[Key.shift_r][Key.shift_r][Key.shift_r]//[Key.enter][Key.shift_r][Key.enter][Key.enter]v[Key.shift_r]\\[Key.f11][Key.f11][Key.f5][Key.f12][Key.f5][Key.f11]
