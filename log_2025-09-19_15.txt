@@ -1,1 +1,1 @@
-[Key.delete][Key.delete][Key.delete][Key.delete][Key.delete][Key.delete][Key.delete][Key.delete][Key.delete][Key.delete]kuttan[Key.delete][Key.backspace]ab[Key.delete]kuttankuttankuttankuttankuttan[Key.enter][Key.enter][Key.enter]
+\\server[Key.enter]ru[Key.backspace]\\server[Key.enter][Key.backspace]\\network[Key.ctrl_l][Key.ctrl_l][Key.ctrl_l][Key.ctrl_l][Key.ctrl_l][Key.ctrl_l][Key.ctrl_l][Key.ctrl_l][Key.ctrl_l][Key.ctrl_l][Key.ctrl_l][Key.ctrl_l][Key.ctrl_l][Key.ctrl_l]
