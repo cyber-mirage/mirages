@@ -1,1 +1,1 @@
-[Key.esc][Key.esc]
+[Key.space][Key.space][Key.enter][Key.enter][Key.enter]
