@@ -1,0 +1,1 @@
+[Key.ctrl_l][Key.esc][Key.enter][Key.cmd][Key.space][Key.space]
